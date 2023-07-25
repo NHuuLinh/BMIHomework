@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD7E50EC-E1F6-4885-BF12-A718D3B80B06"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI HomeWork/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - 8b342af880d1facc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.onBack.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - 46e9147bd9222ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.onBack.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - ff76d9179fc9e6cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.onBack.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - b84b03fd02353bdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.onBack.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - 7014e2ce8fcb2b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_HomeWork.SecondViewController"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - cb52d01f2ca7d14b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_HomeWork.SecondViewController&gt;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - 7014e2ce8fcb2b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_HomeWork.SecondViewController"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "177">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - cb52d01f2ca7d14b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_HomeWork.SecondViewController&gt;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - 7014e2ce8fcb2b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_HomeWork.SecondViewController"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  uuid = "F6786609-2064-4C2E-AC70-1948D014CAB0 - cb52d01f2ca7d14b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_HomeWork.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_HomeWork.SecondViewController&gt;"
+                  moduleName = "BMI HomeWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenlinh/Desktop/Hoc%20code%20trung%20tam%20/BMI%20HomeWorks/BMI%20HomeWork/BMI%20HomeWork/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
